@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Aryaranjan13/leetQuestions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
