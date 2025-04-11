@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aryaranjan13/leetQuestions/tree/master/0001-two-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Aryaranjan13/leetQuestions/tree/master/0643-maximum-average-subarray-i) |
+| [0907-koko-eating-bananas](https://github.com/Aryaranjan13/leetQuestions/tree/master/0907-koko-eating-bananas) |
 | [1603-running-sum-of-1d-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/Aryaranjan13/leetQuestions/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
