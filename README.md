@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryaranjan13/leetQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Aryaranjan13/leetQuestions/tree/master/0014-longest-common-prefix) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Aryaranjan13/leetQuestions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Divide and Conquer
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0792-binary-search](https://github.com/Aryaranjan13/leetQuestions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Aryaranjan13/leetQuestions/tree/master/0907-koko-eating-bananas) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aryaranjan13/leetQuestions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
