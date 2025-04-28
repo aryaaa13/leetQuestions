@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryaranjan13/leetQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Aryaranjan13/leetQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Aryaranjan13/leetQuestions/tree/master/0014-longest-common-prefix) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Aryaranjan13/leetQuestions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Divide and Conquer
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aryaranjan13/leetQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Aryaranjan13/leetQuestions/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Aryaranjan13/leetQuestions/tree/master/0303-range-sum-query-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aryaranjan13/leetQuestions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
