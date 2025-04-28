@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Aryaranjan13/leetQuestions/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Aryaranjan13/leetQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/Aryaranjan13/leetQuestions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Aryaranjan13/leetQuestions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Aryaranjan13/leetQuestions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Aryaranjan13/leetQuestions/tree/master/0907-koko-eating-bananas) |
 | [1603-running-sum-of-1d-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/1603-running-sum-of-1d-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Aryaranjan13/leetQuestions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Aryaranjan13/leetQuestions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/1603-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
