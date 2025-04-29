@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryaranjan13/leetQuestions/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Aryaranjan13/leetQuestions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aryaranjan13/leetQuestions/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/Aryaranjan13/leetQuestions/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Aryaranjan13/leetQuestions/tree/master/0303-range-sum-query-immutable) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aryaranjan13/leetQuestions/tree/master/0053-maximum-subarray) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Aryaranjan13/leetQuestions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Math
 |  |
@@ -90,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryaranjan13/leetQuestions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Aryaranjan13/leetQuestions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
