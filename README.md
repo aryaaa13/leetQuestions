@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,4 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryaranjan13/leetQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Aryaranjan13/leetQuestions/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
