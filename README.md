@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryaranjan13/leetQuestions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Aryaranjan13/leetQuestions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aryaranjan13/leetQuestions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryaranjan13/leetQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryaranjan13/leetQuestions/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Aryaranjan13/leetQuestions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryaranjan13/leetQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
