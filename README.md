@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryaranjan13/leetQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aryaranjan13/leetQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Aryaranjan13/leetQuestions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Aryaranjan13/leetQuestions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aryaranjan13/leetQuestions/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Aryaranjan13/leetQuestions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Divide and Conquer
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aryaranjan13/leetQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Aryaranjan13/leetQuestions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Aryaranjan13/leetQuestions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryaranjan13/leetQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
