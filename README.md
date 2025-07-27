@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Aryaranjan13/leetQuestions/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Aryaranjan13/leetQuestions/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aryaranjan13/leetQuestions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/Aryaranjan13/leetQuestions/tree/master/0184-department-highest-salary) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Aryaranjan13/leetQuestions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
