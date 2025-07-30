@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Aryaranjan13/leetQuestions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aryaranjan13/leetQuestions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryaranjan13/leetQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryaranjan13/leetQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Aryaranjan13/leetQuestions/tree/master/0217-contains-duplicate) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aryaranjan13/leetQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Aryaranjan13/leetQuestions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aryaranjan13/leetQuestions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryaranjan13/leetQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
