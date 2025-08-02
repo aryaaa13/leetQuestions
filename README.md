@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryaranjan13/leetQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Aryaranjan13/leetQuestions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Aryaranjan13/leetQuestions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Aryaranjan13/leetQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/Aryaranjan13/leetQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Aryaranjan13/leetQuestions/tree/master/0724-find-pivot-index) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aryaranjan13/leetQuestions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Aryaranjan13/leetQuestions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aryaranjan13/leetQuestions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Aryaranjan13/leetQuestions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aryaranjan13/leetQuestions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Aryaranjan13/leetQuestions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Aryaranjan13/leetQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryaranjan13/leetQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Aryaranjan13/leetQuestions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Aryaranjan13/leetQuestions/tree/master/0907-koko-eating-bananas) |
 ## Trie
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aryaranjan13/leetQuestions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Aryaranjan13/leetQuestions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aryaranjan13/leetQuestions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/0268-missing-number) |
 ## Queue
 |  |
 | ------- |
@@ -153,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aryaranjan13/leetQuestions/tree/master/0074-search-a-2d-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
