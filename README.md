@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Aryaranjan13/leetQuestions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Aryaranjan13/leetQuestions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Aryaranjan13/leetQuestions/tree/master/0907-koko-eating-bananas) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aryaranjan13/leetQuestions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/1646-kth-missing-positive-number) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aryaranjan13/leetQuestions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Aryaranjan13/leetQuestions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Aryaranjan13/leetQuestions/tree/master/0907-koko-eating-bananas) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aryaranjan13/leetQuestions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/1646-kth-missing-positive-number) |
 ## Trie
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aryaranjan13/leetQuestions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aryaranjan13/leetQuestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/0268-missing-number) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aryaranjan13/leetQuestions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Queue
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aryaranjan13/leetQuestions/tree/master/0239-sliding-window-maximum) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aryaranjan13/leetQuestions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aryaranjan13/leetQuestions/tree/master/0074-search-a-2d-matrix) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aryaranjan13/leetQuestions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
