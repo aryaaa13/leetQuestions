@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryaranjan13/leetQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Aryaranjan13/leetQuestions/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Aryaranjan13/leetQuestions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Aryaranjan13/leetQuestions/tree/master/0907-koko-eating-bananas) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aryaranjan13/leetQuestions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Aryaranjan13/leetQuestions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Aryaranjan13/leetQuestions/tree/master/0383-ransom-note) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Aryaranjan13/leetQuestions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
