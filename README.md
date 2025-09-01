@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Aryaranjan13/leetQuestions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Aryaranjan13/leetQuestions/tree/master/0907-koko-eating-bananas) |
 | [0978-valid-mountain-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/0978-valid-mountain-array) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Aryaranjan13/leetQuestions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aryaranjan13/leetQuestions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/1646-kth-missing-positive-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Aryaranjan13/leetQuestions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryaranjan13/leetQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Aryaranjan13/leetQuestions/tree/master/0496-next-greater-element-i) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Aryaranjan13/leetQuestions/tree/master/1034-subarrays-with-k-different-integers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aryaranjan13/leetQuestions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Aryaranjan13/leetQuestions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryaranjan13/leetQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Aryaranjan13/leetQuestions/tree/master/0643-maximum-average-subarray-i) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Aryaranjan13/leetQuestions/tree/master/1034-subarrays-with-k-different-integers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aryaranjan13/leetQuestions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Aryaranjan13/leetQuestions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Aryaranjan13/leetQuestions/tree/master/0383-ransom-note) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Aryaranjan13/leetQuestions/tree/master/1034-subarrays-with-k-different-integers) |
 ## Interactive
 |  |
 | ------- |
