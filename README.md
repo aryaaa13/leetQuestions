@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryaranjan13/leetQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aryaranjan13/leetQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Aryaranjan13/leetQuestions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Aryaranjan13/leetQuestions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Aryaranjan13/leetQuestions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Aryaranjan13/leetQuestions/tree/master/0020-valid-parentheses) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryaranjan13/leetQuestions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Aryaranjan13/leetQuestions/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Aryaranjan13/leetQuestions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aryaranjan13/leetQuestions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryaranjan13/leetQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aryaranjan13/leetQuestions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Aryaranjan13/leetQuestions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Aryaranjan13/leetQuestions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Aryaranjan13/leetQuestions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aryaranjan13/leetQuestions/tree/master/0231-power-of-two) |
