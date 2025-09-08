@@ -13,8 +13,6 @@ class Solution {
                 maxSum= sum;
             }
         }
-        return maxSum;
-
-        
+        return maxSum;     
     }
 }
