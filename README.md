@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aryaranjan13/leetQuestions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Aryaranjan13/leetQuestions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Aryaranjan13/leetQuestions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aryaranjan13/leetQuestions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Aryaranjan13/leetQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aryaranjan13/leetQuestions/tree/master/0074-search-a-2d-matrix) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aryaranjan13/leetQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aryaranjan13/leetQuestions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Aryaranjan13/leetQuestions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aryaranjan13/leetQuestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aryaranjan13/leetQuestions/tree/master/0125-valid-palindrome) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryaranjan13/leetQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Aryaranjan13/leetQuestions/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/Aryaranjan13/leetQuestions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aryaranjan13/leetQuestions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aryaranjan13/leetQuestions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryaranjan13/leetQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aryaranjan13/leetQuestions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Aryaranjan13/leetQuestions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryaranjan13/leetQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Aryaranjan13/leetQuestions/tree/master/0496-next-greater-element-i) |
 ## Matrix
@@ -270,5 +274,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aryaranjan13/leetQuestions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Aryaranjan13/leetQuestions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
