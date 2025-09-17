@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Aryaranjan13/leetQuestions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Aryaranjan13/leetQuestions/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Aryaranjan13/leetQuestions/tree/master/1646-kth-missing-positive-number) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Aryaranjan13/leetQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aryaranjan13/leetQuestions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryaranjan13/leetQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Aryaranjan13/leetQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Aryaranjan13/leetQuestions/tree/master/0908-middle-of-the-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Aryaranjan13/leetQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryaranjan13/leetQuestions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Aryaranjan13/leetQuestions/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Aryaranjan13/leetQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
